@@ -1,0 +1,15 @@
+C:\NewAPP\NewApp\App.Core\bin\Debug\net6.0\App.Core.exe
+C:\NewAPP\NewApp\App.Core\bin\Debug\net6.0\App.Core.deps.json
+C:\NewAPP\NewApp\App.Core\bin\Debug\net6.0\App.Core.runtimeconfig.json
+C:\NewAPP\NewApp\App.Core\bin\Debug\net6.0\App.Core.dll
+C:\NewAPP\NewApp\App.Core\bin\Debug\net6.0\App.Core.pdb
+C:\NewAPP\NewApp\App.Core\obj\Debug\net6.0\App.Core.csproj.AssemblyReference.cache
+C:\NewAPP\NewApp\App.Core\obj\Debug\net6.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\NewAPP\NewApp\App.Core\obj\Debug\net6.0\App.Core.AssemblyInfoInputs.cache
+C:\NewAPP\NewApp\App.Core\obj\Debug\net6.0\App.Core.AssemblyInfo.cs
+C:\NewAPP\NewApp\App.Core\obj\Debug\net6.0\App.Core.csproj.CoreCompileInputs.cache
+C:\NewAPP\NewApp\App.Core\obj\Debug\net6.0\App.Core.dll
+C:\NewAPP\NewApp\App.Core\obj\Debug\net6.0\refint\App.Core.dll
+C:\NewAPP\NewApp\App.Core\obj\Debug\net6.0\App.Core.pdb
+C:\NewAPP\NewApp\App.Core\obj\Debug\net6.0\App.Core.genruntimeconfig.cache
+C:\NewAPP\NewApp\App.Core\obj\Debug\net6.0\ref\App.Core.dll
